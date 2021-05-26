@@ -1,10 +1,5 @@
 # BIG-IP Declarative Onboarding builder sub-module
 
-> You are viewing a **2.x release** of the modules, which supports
-> **Terraform 0.13** only. *For modules compatible with Terraform 0.12, use a
-> 1.x release.* Functionality is identical, but separate releases are required
-> due to the difference in *variable validation* between Terraform 0.12 and 0.13.
-
 This module encapsulates the creation of a set of DO payloads that support a very
 basic configuration of BIG-IP at run-time. It is **NOT** a substitute for a custom
 DO payload.
